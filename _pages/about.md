@@ -27,7 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am an AI Engineer at AIRA Matrix, Mumbai, India, where I work at the intersection of artificial intelligence, computer vision, and computational pathology. I am currently contributing to the AIRATox project, an all-in-one AI-driven solution suite for non-clinical toxicology study reporting, with modules focused on artifact detection, tissue triage, and abnormality quantification.
+
+During my time at AIRA Matrix, I have contributed to the development of AI pipelines for histopathology image analysis and toxicological assessment, working on challenging problems involving tissue understanding, image quality, and automated analysis at scale. My research work has also been recognized internationally, with a poster presented at the Japanese Society of Toxicology Conference and a publication at the Medical Imaging with Deep Learning (MIDL) Conference.
+
+I graduated in 2024 with a Dual Degree in Engineering Physics from the Indian Institute of Technology (BHU), Varanasi. Before joining AIRA Matrix, I worked as a summer research intern in the Medical and Environmental Computing Lab, TU Darmstadt, wherein 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
