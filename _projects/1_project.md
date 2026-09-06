@@ -44,4 +44,3 @@ We propose a three-stage end-to-end pipeline consisting of robust nnU-Net prepro
 This work explores the challenging problem of cerebral ventricle segmentation in the presence of intra-ventricular hemorrhage. A novel three-stage pipeline using two U-Nets within the nnU-Net framework was developed to refine ventricle segmentation and mitigate blood interference. While the proposed method performed consistently and demonstrated effective refinement between stages, the experiments also revealed that the nnU-Net baseline itself is highly robust and difficult to outperform. Future work focuses on developing an extended multi-stage pipeline and improved training strategies for further refinement of ventricle and hemorrhage segmentation. 
 
 To learn more about this project, please refer to the full project [report](https://drive.google.com/file/d/1Uo2eT7w-QgDkAMQ1JmpRPm9gKmgIjsR2/view?usp=drive_link)
-{% endraw %}
