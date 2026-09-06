@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2016-05-19
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Successfully completed my Dual Degree in [Engineering Physics](https://www.iitbhu.ac.in/dept/phy) from the [Indian Institute of Technology (BHU), Varanasi](https://iitbhu.ac.in/).
