@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-07
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started my undergraduate dual degree in [Engineering Physics](https://www.iitbhu.ac.in/dept/phy) at the [Indian Institute of Technology (BHU), Varanasi](https://iitbhu.ac.in/).
