@@ -2,7 +2,7 @@
 layout: page
 title: Brain Ventricle Segmentation With Intraventricular Hemorrhage
 description: Project done at the Medical and Environmental Computing Lab, TU Darmstadt, Germany
-img: assets/img/bvs1.jpg
+img: assets/img/bvs1.png
 importance: 1
 category: work
 related_publications: true
@@ -12,16 +12,16 @@ Brain ventricle segmentation is clinically important for monitoring changes in v
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bvs2.jpg" title="CT scan1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bvs2.png" title="CT scan1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bvs21.jpg" title="CT scan2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bvs21.png" title="CT scan2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bvs3.jpg" title="our pipeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bvs3.png" title="our pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -32,10 +32,10 @@ We propose a three-stage end-to-end pipeline consisting of robust nnU-Net prepro
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bvs4.jpg" title="result scan1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bvs4.png" title="result scan1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bvs41.jpg" title="result scan2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bvs41.png" title="result scan2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
         Segmentation results from our pipeline
