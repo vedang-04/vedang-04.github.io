@@ -5,7 +5,7 @@ description: Project done at the Medical and Environmental Computing Lab, TU Dar
 img: assets/img/bvs1.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Brain ventricle segmentation is clinically important for monitoring changes in ventricular shape and volume associated with several neurological conditions. However, segmentation becomes particularly challenging in cases of intraventricular hemorrhage (IVH), where blood enters the ventricles and obscures their boundaries. This project investigates this under-explored problem and proposes a robust segmentation pipeline built on the nnU-Net framework to mitigate the effect of blood interference during ventricle segmentation.
@@ -43,4 +43,4 @@ We propose a three-stage end-to-end pipeline consisting of robust nnU-Net prepro
 
 This work explores the challenging problem of cerebral ventricle segmentation in the presence of intra-ventricular hemorrhage. A novel three-stage pipeline using two U-Nets within the nnU-Net framework was developed to refine ventricle segmentation and mitigate blood interference. While the proposed method performed consistently and demonstrated effective refinement between stages, the experiments also revealed that the nnU-Net baseline itself is highly robust and difficult to outperform. Future work focuses on developing an extended multi-stage pipeline and improved training strategies for further refinement of ventricle and hemorrhage segmentation. 
 
-To learn more about this project, please refer to the full project [report](https://drive.google.com/file/d/1Uo2eT7w-QgDkAMQ1JmpRPm9gKmgIjsR2/view?usp=drive_link)
+To learn more about this project, please refer to the full project <a href="https://drive.google.com/file/d/1Uo2eT7w-QgDkAMQ1JmpRPm9gKmgIjsR2/view" target="_blank">report</a>.
