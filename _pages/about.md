@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Email](kshirsagarvedang62@gmail.com) . [CV](https://drive.google.com/file/d/1u5S6uEAahzKVIeuQg8YgfF6D04OQtSDO/view?usp=sharing) . [Google Scholar](https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao) . [Github](https://github.com/vedang-04) . [LinkedIn](https://linkedin.com/in/vedang-kshirsagar-1b9a761b2)
+subtitle: "[Email](kshirsagarvedang62@gmail.com) / [CV](https://drive.google.com/file/d/1u5S6uEAahzKVIeuQg8YgfF6D04OQtSDO/view?usp=sharing) / [Google Scholar](https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao) / [Github](https://github.com/vedang-04) / [LinkedIn](https://linkedin.com/in/vedang-kshirsagar-1b9a761b2)"
 
 profile:
   align: right
