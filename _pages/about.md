@@ -32,4 +32,4 @@ Previously, I worked as a Research Intern at the [Medical and Environmental Comp
 
 You can find more details in my [CV](https://drive.google.com/file/d/1DmWqQK1Wz4BTchk58D363Y5KUykwju0_/view?usp=sharing) and [Google Scholar](https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao) profile. Feel free to reach out at [kshirsagarvedang62@gmail.com](mailto:kshirsagarvedang62@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/vedang-kshirsagar-1b9a761b2). 
 
-In my free time, when I’m not working or reading, I enjoy watching or playing football, going for a run, playing the piano, and travelling. If you’re a Real Madrid fan, I’d love to have a good chat with you! And if you enjoy running, feel free to follow me on Strava.
+In my free time, when I’m not working or reading, I enjoy watching or playing football, going for a run, playing the piano, and [travelling](https://vedang-04.github.io/travel/). If you’re a Real Madrid fan, I’d love to have a good chat with you! And if you enjoy running, feel free to follow me on Strava.
