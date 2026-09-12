@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 https://drive.google.com/file/d/1DmWqQK1Wz4BTchk58D363Y5KUykwju0_/view?usp=sharing
-subtitle: '<a href="mailto:kshirsagarvedang62@gmail.com">Email</a>  /  <a href="https://drive.google.com/file/d/1DmWqQK1Wz4BTchk58D363Y5KUykwju0_/view?usp=sharing">CV</a>  /  <a href="https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao">Google Scholar</a>  /  <a href="https://github.com/vedang-04">GitHub</a>  /  <a href="https://linkedin.com/in/vedang-kshirsagar-1b9a761b2">LinkedIn</a>'
+subtitle: '<a href="mailto:kshirsagarvedang62@gmail.com">Email</a>  /  <a href="https://drive.google.com/file/d/1DmWqQK1Wz4BTchk58D363Y5KUykwju0_/view?usp=sharing" target="_blank">CV</a>  /  <a href="https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>  /  <a href="https://github.com/vedang-04" target="_blank">GitHub</a>  /  <a href="https://linkedin.com/in/vedang-kshirsagar-1b9a761b2" target="_blank">LinkedIn</a>'
 
 profile:
   align: right
