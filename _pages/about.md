@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: '<a href="mailto:kshirsagarvedang62@gmail.com">Email</a>  /  <a href="https://drive.google.com/file/d/1u5S6uEAahzKVIeuQg8YgfF6D04OQtSDO/view?usp=sharing">CV</a>  /  <a href="https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao">Google Scholar</a>  /  <a href="https://github.com/vedang-04">GitHub</a>  /  <a href="https://linkedin.com/in/vedang-kshirsagar-1b9a761b2">LinkedIn</a>'
+https://drive.google.com/file/d/1DmWqQK1Wz4BTchk58D363Y5KUykwju0_/view?usp=sharing
+subtitle: '<a href="mailto:kshirsagarvedang62@gmail.com">Email</a>  /  <a href="https://drive.google.com/file/d/1DmWqQK1Wz4BTchk58D363Y5KUykwju0_/view?usp=sharing">CV</a>  /  <a href="https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao">Google Scholar</a>  /  <a href="https://github.com/vedang-04">GitHub</a>  /  <a href="https://linkedin.com/in/vedang-kshirsagar-1b9a761b2">LinkedIn</a>'
 
 profile:
   align: right
@@ -30,6 +31,6 @@ I graduated in 2024 with a Dual Degree in [Engineering Physics](https://www.iitb
 
 Previously, I worked as a Research Intern at the [Medical and Environmental Computing (MEC) Lab](https://www.informatik.tu-darmstadt.de/gris/forschung_1/medical_computing/index.en.jsp) at TU Darmstadt, Germany, where we developed robust 3D cerebral ventricle segmentation models for clinical CT volumes affected by intra-ventricular hemorrhage (IVH), addressing the challenge of blood-induced boundary ambiguity. I was also involved in developing GeoLighting, an end-to-end, three-stage computer vision pipeline for automatically discovering and geo-localizing streetlights from GPS-tagged street-view videos, enabling scalable streetlight map generation in collaboration with [iHub-Data](https://ihub-data.iiit.ac.in/), IIIT Hyderabad, India.
 
-You can find more details in my [CV](https://drive.google.com/file/d/1u5S6uEAahzKVIeuQg8YgfF6D04OQtSDO/view?usp=sharing) and [Google Scholar](https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao) profile. Feel free to reach out at [kshirsagarvedang62@gmail.com](mailto:kshirsagarvedang62@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/vedang-kshirsagar-1b9a761b2). 
+You can find more details in my [CV](https://drive.google.com/file/d/1DmWqQK1Wz4BTchk58D363Y5KUykwju0_/view?usp=sharing) and [Google Scholar](https://scholar.google.co.in/citations?user=PAMkJdcAAAAJ&hl=en&oi=ao) profile. Feel free to reach out at [kshirsagarvedang62@gmail.com](mailto:kshirsagarvedang62@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/vedang-kshirsagar-1b9a761b2). 
 
 In my free time, when I’m not working or reading, I enjoy watching or playing football, going for a run, playing the piano, and travelling. If you’re a Real Madrid fan, I’d love to have a good chat with you! And if you enjoy running, feel free to follow me on Strava.
