@@ -24,12 +24,6 @@ I love travelling, both within India and across the world. So far, I’ve had th
       <a href="YOUR_SINGAPORE_CITY_LINK">Singapore City</a>
     </p>
 
-    <p>
-    <img src="/assets/img/sg_flag.png" class="travel-flag" alt="Singapore flag">
-    <strong><a href="YOUR_SINGAPORE_LINK">Singapore</a></strong> —
-    <a href="YOUR_SINGAPORE_CITY_LINK">Singapore City</a>
-    </p>
-
     <p>🇱🇰 <strong><a href="YOUR_SRI_LANKA_LINK">Sri Lanka</a></strong> —
       <a href="YOUR_COLOMBO_LINK">Colombo</a>
     </p>
@@ -71,7 +65,7 @@ I love travelling, both within India and across the world. So far, I’ve had th
     </p>
 
     <p>🇫🇷 <strong><a href="YOUR_FRANCE_LINK">France</a></strong> —
-      <a href="YOUR_PARIS_LINK">Paris</a>
+      <a href="YOUR_PARIS_LINK">Paris and Versailles Palace</a>
     </p>
 
     <p>🇩🇪 <strong><a href="YOUR_GERMANY_LINK">Germany</a></strong> —
@@ -81,9 +75,9 @@ I love travelling, both within India and across the world. So far, I’ve had th
       <a href="YOUR_DUSSELDORF_LINK">Düsseldorf</a>,
       <a href="YOUR_FRANKFURT_LINK">Frankfurt</a>,
       <a href="YOUR_HEIDELBERG_LINK">Heidelberg</a>,
-      <a href="YOUR_MUNICH_LINK">Munich</a>,
+      <a href="YOUR_MUNICH_LINK">Munich and Neuschwanstein Castle</a>,
       <a href="YOUR_STUTTGART_LINK">Stuttgart</a>,
-      <a href="YOUR_BLACK_FOREST_LINK">Black Forest</a>
+      <a href="YOUR_BLACK_FOREST_LINK">German Alps and Black Forest</a>
     </p>
 
     <p>🇭🇺 <strong><a href="YOUR_HUNGARY_LINK">Hungary</a></strong> —
@@ -123,7 +117,7 @@ I love travelling, both within India and across the world. So far, I’ve had th
     </p>
 
     <p>🇨🇭 <strong><a href="YOUR_SWITZERLAND_LINK">Switzerland</a></strong> —
-      <a href="YOUR_SWISS_ALPS_LINK">Swiss Alps</a>,
+      <a href="YOUR_SWISS_ALPS_LINK">Swiss Alps</a> (Lucern, Interlaken),
       <a href="YOUR_ZURICH_LINK">Zurich</a>
     </p>
   </div>
