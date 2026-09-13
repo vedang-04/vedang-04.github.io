@@ -58,7 +58,7 @@ I love travelling, both within India and across the world. So far, I’ve had th
       <a href="https://drive.google.com/drive/folders/1pWmoWZy3A1nOSgfSSvl9cAaszKkRRTfM?usp=sharing">Prague</a>
     </p>
 
-    <p>🏴 <strong><a href="https://drive.google.com/drive/folders/16ejUJh2y2OVaQH-SGn9pDmWboPk0erNb?usp=sharing">England</a></strong> —
+    <p>🇬🇧 <strong><a href="https://drive.google.com/drive/folders/16ejUJh2y2OVaQH-SGn9pDmWboPk0erNb?usp=sharing">England</a></strong> —
       <a href="https://drive.google.com/drive/folders/1wJr2xF2Gbju4te1a1oTcHMnftNu-KILh?usp=sharing">London</a>,
       <a href="YOUR_MANCHESTER_LINK">Manchester</a>,
       <a href="YOUR_SHEFFIELD_LINK">Sheffield</a>
@@ -102,7 +102,7 @@ I love travelling, both within India and across the world. So far, I’ve had th
       <a href="https://drive.google.com/drive/folders/1elAPhEfftCH1yAc-xENuRkbi3O7RAqCP?usp=sharing">The Hague</a>
     </p>
 
-    <p>🏴 <strong><a href="https://drive.google.com/drive/folders/14p6muxyixxeG3BAWUCcede4erAIq3MWq?usp=sharing">Scotland</a></strong> —
+    <p>🇬🇧 <strong><a href="https://drive.google.com/drive/folders/14p6muxyixxeG3BAWUCcede4erAIq3MWq?usp=sharing">Scotland</a></strong> —
       <a href="YOUR_EDINBURGH_LINK">Edinburgh</a>,
       <a href="YOUR_SCOTTISH_HIGHLANDS_LINK">Scottish Highlands</a>
       (Inverness, Aviemore)
