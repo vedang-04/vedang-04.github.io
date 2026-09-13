@@ -8,7 +8,7 @@ nav_order: 6
 calendar: true
 ---
 
-I love travelling, both within India and across the world. So far, I’ve had the opportunity to visit 19 countries across 2 continents, and each journey has left me with memories, stories, and experiences that I cherish. I wanted to create this space to share some of those moments and memories through photographs from my travels.
+I love travelling, both within India and across the world. So far, I’ve had the opportunity to visit 20 countries across 2 continents, and each journey has left me with memories, stories, and experiences that I cherish. I wanted to create this space to share some of those moments and memories through photographs from my travels.
 
 <div class="row">
   <div class="col-md-6">
@@ -22,6 +22,16 @@ I love travelling, both within India and across the world. So far, I’ve had th
 
     <p>🇸🇬 <strong><a href="YOUR_SINGAPORE_LINK">Singapore</a></strong> —
       <a href="YOUR_SINGAPORE_CITY_LINK">Singapore City</a>
+    </p>
+
+    <p>
+    <img src="/assets/img/sg_flag.png" class="travel-flag" alt="Singapore flag">
+    <strong><a href="YOUR_SINGAPORE_LINK">Singapore</a></strong> —
+    <a href="YOUR_SINGAPORE_CITY_LINK">Singapore City</a>
+    </p>
+
+    <p>🇱🇰 <strong><a href="YOUR_SRI_LANKA_LINK">Sri Lanka</a></strong> —
+      <a href="YOUR_COLOMBO_LINK">Colombo</a>
     </p>
 
     <p>🇹🇼 <strong><a href="https://drive.google.com/drive/folders/1FVQRrXOKGKV8lcFDLbGqz6IjDlo36JF-?usp=drive_link">Taiwan</a></strong> —
