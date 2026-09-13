@@ -1,80 +1,43 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Network Analysis
+description: Project done for CSO323 (Graph Theory and its Applications) course
+img: assets/img/na1.png
+importance: 4
+category: work
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project focuses on the analysis of a protein-protein interaction (PPI) network in yeast, where proteins are represented as nodes and their interactions as edges. The objective was to study the network's topology and structure, identify communities, and analyze properties such as degree distribution, clustering, closeness, and eccentricity to understand the organization of the protein interaction network.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/na2.png" title="CT scan1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Data Overview
 </div>
+
+The PPI network was modeled as an undirected and unweighted graph and analyzed using network analysis techniques and Gephi. We examined fundamental network properties including degree distribution, connected components, average path length, diameter, density, and clustering coefficient. Community detection was performed to identify densely connected groups of proteins, while closeness and eccentricity were analyzed to study node reachability and positions within the network. The network contained 2,018 nodes and 2,930 edges, with an average degree of 2.903 and a graph density of 0.001, indicating a sparse network. The average path length was 5.61, while the network diameter was 14. The degree distribution was highly skewed, with a minimum degree of 0 and a maximum degree of 92, indicating the presence of hub proteins. The network exhibited a moderate average clustering coefficient of 0.134. Community analysis identified 208 communities with a modularity of 0.753, suggesting a well-defined community structure. The network also contained 185 connected components. Analysis of degree distribution and its long tail indicated that the network follows a scale-free structure, characterized by many low-degree nodes and relatively few highly connected nodes. Closeness and eccentricity distributions further indicated that many nodes are relatively distant from one another, while only a small number occupy more central positions in the network.
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/na2.png" title="our pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/na3.png" title="CT scan2" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/na4.png" title="result scan1" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/na5.png" title="result scan2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="caption">
+        Results from our Analysis
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The analysis revealed that the yeast protein-protein interaction network is a sparse, scale-free network with a strong community structure. The presence of highly connected hub proteins alongside many low-degree proteins highlights the heterogeneous organization of the network. Community, clustering, closeness, and eccentricity analyses provided complementary insights into how proteins are organized and connected within the overall interaction network. 
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+To learn more about this project, please refer to the full project <a href="https://drive.google.com/file/d/1YgkD6gBoa66ZJbA00T24tfISgX_MiffK/view?usp=sharing" target="_blank">slides</a>.
