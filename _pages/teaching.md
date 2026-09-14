@@ -21,11 +21,11 @@ I love travelling, both within India and across the world. So far, I’ve had th
     </p>
 
     <p>🇸🇬 <strong><a href="https://drive.google.com/drive/folders/1iIshUR_c6nXb4R6HOXpvFdDCp2O8qmc6?usp=sharing">Singapore</a></strong> —
-      <a href="YOUR_SINGAPORE_CITY_LINK">Singapore City</a>
+      <a href="https://drive.google.com/drive/folders/1a2dY9CoZCmreTf86JDd1oD7Wf4VcLGwO?usp=sharing">Singapore City</a>
     </p>
 
     <p>🇱🇰 <strong><a href="https://drive.google.com/drive/folders/1tbFRpVzecEnbsOKe42fsdBRLJv5nQxpd?usp=sharing">Sri Lanka</a></strong> —
-      <a href="YOUR_COLOMBO_LINK">Colombo</a>
+      <a href="https://drive.google.com/drive/folders/1rPNtWbnnN7-6V_FRHH21Z08rCIEm5RdH?usp=sharing">Colombo</a>
     </p>
 
     <p>🇹🇼 <strong><a href="https://drive.google.com/drive/folders/1FVQRrXOKGKV8lcFDLbGqz6IjDlo36JF-?usp=sharing">Taiwan</a></strong> —
@@ -85,8 +85,8 @@ I love travelling, both within India and across the world. So far, I’ve had th
     </p>
 
     <p>🇮🇹 <strong><a href="https://drive.google.com/drive/folders/1uBA8JPQTLJHOt4tj2X8Ieef3iY80-O0O?usp=sharing">Italy</a></strong> —
-      <a href="https://drive.google.com/drive/folders/1NIHpHNHULSU-qEM9XtYyIjfuWg8zFsQk?usp=sharing">Florence and Pisa</a>,
       <a href="https://drive.google.com/drive/folders/1ERdVTVIUSHQG6IUb9i3B6qXxYPd4RZI0?usp=sharing">Milan</a>,
+      <a href="https://drive.google.com/drive/folders/1NIHpHNHULSU-qEM9XtYyIjfuWg8zFsQk?usp=sharing">Pisa</a>,
       <a href="https://drive.google.com/drive/folders/1zTPSxS9hu4JHaamudp0XDxqUNUayAG6r?usp=sharing">Rome</a>,
       <a href="https://drive.google.com/drive/folders/1eqhFLor74gUWaBc8Ca-CldJ3W9FlEil0?usp=sharing">Venice</a>
     </p>
