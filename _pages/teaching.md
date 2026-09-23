@@ -16,8 +16,8 @@ I love travelling, both within India and across the world. So far, I’ve had th
 
     <p>🇮🇳 <strong><a href="https://drive.google.com/drive/folders/1mxssr9_8apmuu2I4adgkRdIBthcR4Uay?usp=sharing">India</a></strong></p>
 
-    <p>🇲🇾 <strong><a href="https://drive.google.com/drive/folders/1fqS_FGC8DEEm2SV92d5-zDBnU-_42GLq?usp=sharing">Malaysia</a></strong> —
-      <a href="YOUR_KUALA_LUMPUR_LINK">Kuala Lumpur</a>
+    <p>🇲🇾 <strong><a href="https://drive.google.com/drive/folders/1fqS_FGC8DEEm2SV92d5-zDBnU-_42GLq?usp=drive_link">Malaysia</a></strong> —
+      <a href="https://drive.google.com/drive/folders/1_5ecyaUJknrpKq9jcRPkFkejWKmnTxtR?usp=drive_link">Kuala Lumpur</a>
     </p>
 
     <p>🇸🇬 <strong><a href="https://drive.google.com/drive/folders/1iIshUR_c6nXb4R6HOXpvFdDCp2O8qmc6?usp=sharing">Singapore</a></strong> —
