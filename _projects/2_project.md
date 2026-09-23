@@ -12,10 +12,10 @@ Streetlights are essential for road safety, urban planning, and energy-efficient
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/st2.png" title="CT scan1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/st2.png" title="Data Overview" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/st21.png" title="CT scan2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/st21.png" title="Data Collection route" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -25,7 +25,7 @@ Streetlights are essential for road safety, urban planning, and energy-efficient
     </div>
 </div>
 <div class="caption">
-    Our developed 3-stage pipeline
+    Our developed multi-stage pipeline
 </div>
 
 We developed a three-stage pipeline for automatic streetlight discovery and geo-localization: 
@@ -42,10 +42,10 @@ YOLOv8n achieved the best detection performance with a mAP@0.5 of 98.7%, outperf
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/st4.png" title="result scan1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/st4.png" title="result analysis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/st41.png" title="result scan2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/st41.png" title="output maps" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
         Results from our pipeline
@@ -53,4 +53,4 @@ YOLOv8n achieved the best detection performance with a mAP@0.5 of 98.7%, outperf
 
 GeoLighting demonstrates that streetlights can be automatically discovered and geographically mapped using only GPS-augmented street-view imagery. By combining object detection, feature matching, and GPS-based localization, the proposed pipeline provides an efficient and scalable alternative to manual streetlight mapping. The system can support applications in urban planning, infrastructure monitoring, and energy-efficient streetlight placement, with future work focused on scaling the system into a dashboard-based service for civic authorities and planning agencies.
 
-To learn more about this project, please refer to the full project <a href="https://drive.google.com/file/d/1VEiGzWKokakuyZvj30wzdwH3Tov3Y9ss/view?usp=drive_link" target="_blank">report</a> and <a href="https://drive.google.com/file/d/1y0L751IP0e_t8kepxyQKz2fJvcQym2ti/view?usp=drive_link" target="_blank">video</a>
+To learn more about this project, please refer to the full project  <a href="https://drive.google.com/file/d/1VEiGzWKokakuyZvj30wzdwH3Tov3Y9ss/view?usp=drive_link" target="_blank">report</a>  and  <a href="https://drive.google.com/file/d/1y0L751IP0e_t8kepxyQKz2fJvcQym2ti/view?usp=drive_link" target="_blank">video</a>
