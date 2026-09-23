@@ -12,7 +12,7 @@ This project focuses on the analysis of a protein-protein interaction (PPI) netw
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/na2.png" title="CT scan1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/na2.png" title="data" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -23,16 +23,16 @@ The PPI network was modeled as an undirected and unweighted graph and analyzed u
 
 <div class="row">
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/na6.png" title="our pipeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/na6.png" title="result analysis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/na3.png" title="CT scan2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/na3.png" title="result analysis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/na4.png" title="result scan1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/na4.png" title="result analysis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-4 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/na5.png" title="result scan2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/na5.png" title="result analysis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
         Results from our Analysis
@@ -40,4 +40,4 @@ The PPI network was modeled as an undirected and unweighted graph and analyzed u
 
 The analysis revealed that the yeast protein-protein interaction network is a sparse, scale-free network with a strong community structure. The presence of highly connected hub proteins alongside many low-degree proteins highlights the heterogeneous organization of the network. Community, clustering, closeness, and eccentricity analyses provided complementary insights into how proteins are organized and connected within the overall interaction network. 
 
-To learn more about this project, please refer to the full project <a href="https://drive.google.com/file/d/1YgkD6gBoa66ZJbA00T24tfISgX_MiffK/view?usp=sharing" target="_blank">slides</a>.
+To learn more about this project, please refer to the full project  <a href="https://drive.google.com/file/d/1YgkD6gBoa66ZJbA00T24tfISgX_MiffK/view?usp=sharing" target="_blank">slides</a>.
